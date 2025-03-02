@@ -1,0 +1,3 @@
+interface IBaseProjectile {
+    CBaseEntity@ GetOwner();
+}

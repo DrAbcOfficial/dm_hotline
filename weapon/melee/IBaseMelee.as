@@ -1,0 +1,3 @@
+interface IBaseMelee{
+    CBaseEntity@ GetOwner();
+}
